@@ -10,8 +10,8 @@
 Follow all the initial setup listed in the tutorial until you successfully ran `npm install mongodb express cors dotenv`
 Then just use the code here instead of the code provided in the tutorial. 
 
-Make sure `server.js` , `db` , and `routes` are added to mern/server.
-Make sure `src` and `public` are added to mern/client.
+Make sure `server.js` , `db` , and `routes` are added to `mern/server` directory.
+Make sure `src` and `public` are added to `mern/client` directory.
 
 Referenced in the tutorial link, make sure to set up your own `config.env` file in `mern/server`
 example:
