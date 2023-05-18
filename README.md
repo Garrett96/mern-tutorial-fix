@@ -2,6 +2,8 @@
 
 <img width="1015" alt="Screen Shot 2023-05-18 at 00 03 14" src="https://github.com/Garrett96/mern-tutorial-fix/assets/46694517/6ebb7129-4581-4557-90d8-66fed41c61dd">
 
+<img width="1219" alt="Screen Shot 2023-05-18 at 00 04 14" src="https://github.com/Garrett96/mern-tutorial-fix/assets/46694517/e4d7aeae-fa0c-482d-9af9-a60d4918175b">
+
 # Fixed this outdated tutorial.
 - `https://www.mongodb.com/languages/mern-stack-tutorial`
 
