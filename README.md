@@ -12,10 +12,10 @@ Then just use the code here instead of the code provided in the tutorial.
 Make sure `server.js` , `db` , and `routes` are added to mern/server.
 Make sure `src` and `public` are added to mern/client.
 
-* Referenced in the tutorial link, make sure to set up your own `config.env` file in `mern/server`
-* example:
-  * ATLAS_URI=mongodb+srv://[YourUsername]:[YourPassword]@[YourCluster].mongodb.net/?retryWrites=true&w=majority
-    PORT=5000
+Referenced in the tutorial link, make sure to set up your own `config.env` file in `mern/server`
+example:
+ * ATLAS_URI=mongodb+srv://[YourUsername]:[YourPassword]@[YourCluster].mongodb.net/?retryWrites=true&w=majority
+   PORT=5000
 
 # Run it
 - [if relevant] disconnect from VPN.
