@@ -1,4 +1,4 @@
-## MERN Stack
+# MERN Stack
 
 # Fixed this outdated tutorial.
 - `https://www.mongodb.com/languages/mern-stack-tutorial`
@@ -6,6 +6,7 @@
 # Issue Solved: mongodb v5 switched from callbacks to promises.
 - `https://github.com/mongodb-developer/mern-stack-example/issues/27`
 
+# How To
 Follow all the initial setup listed in the tutorial until you successfully ran `npm install mongodb express cors dotenv`
 Then just use the code here instead of the code provided in the tutorial. 
 
