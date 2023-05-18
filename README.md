@@ -26,8 +26,8 @@ example:
 - [if relevant] disconnect from VPN.
 - Open 2 terminal tabs.
 - cd mern, cd server `node server.js`
-- login to `cloud.mongodb.com` to make sure there's a connection.
 - cd mern, cd client `npm start`
+- login to `cloud.mongodb.com` to make sure there's a connection.
 - Click `Create Record` fill out the form, and it should work.
 - When finished `^C` to exit client/server, and if applicable re-connect to your VPN.
 
