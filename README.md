@@ -1,5 +1,7 @@
 # MERN Stack
 
+<img width="1015" alt="Screen Shot 2023-05-18 at 00 03 14" src="https://github.com/Garrett96/mern-tutorial-fix/assets/46694517/6ebb7129-4581-4557-90d8-66fed41c61dd">
+
 # Fixed this outdated tutorial.
 - `https://www.mongodb.com/languages/mern-stack-tutorial`
 
