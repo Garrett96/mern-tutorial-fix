@@ -27,11 +27,10 @@ Extra:
  * Turn off any VPN's, adblockers, firewalls, proxies, or network tooling since this can prevent the client side app from talking with your Mongo database during development testing.
 
 # Run it
-- [if relevant] disconnect from VPN.
 - Open 2 terminal tabs.
 - cd mern, cd server `node server.js`
 - cd mern, cd client `npm start`
 - login to `cloud.mongodb.com` to make sure there's a connection.
 - Click `Create Record` fill out the form, and it should work.
-- When finished `^C` to exit client/server, and if applicable re-connect to your VPN.
+- When finished `^C` to exit client/server.
 
