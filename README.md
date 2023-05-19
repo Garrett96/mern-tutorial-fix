@@ -23,7 +23,6 @@ example:
    `PORT=5000`
    
 Extra:
-
  * https://github.com/remy/nodemon/issues/1849 If you're on MacOS, you might need to turn off `AirPlay Reciever` in your sharing settings.
  * Turn off any VPN's, adblockers, firewalls, proxies, or network tooling since this can prevent the client side app from talking with your Mongo database during development testing.
 
